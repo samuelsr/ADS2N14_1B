@@ -1,0 +1,13 @@
+public class HelloW_orld {
+
+       public static void main(String[] args) {
+               // TODO Auto-generated method stub
+               String Nome;
+               System.out.println("Informe Seu Nome:");
+               
+               Nome = ler.next();
+               System.out.println("Hello "+ Nome);
+       }
+
+}
+ 
